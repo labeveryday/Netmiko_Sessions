@@ -1,4 +1,4 @@
-### Welcome to the LabEverydayBot
+### Welcome to the Netmiko_Sessions
  * `Say Hello` https://twitter.com/labeveryday
  * `More Info` www.labeveryday.com
  * `Contact Me` info@labeveryday.com
