@@ -1,5 +1,4 @@
 from netmiko import ConnectHandler
-import netmiko
 import xlrd
 import time
 import getpass
